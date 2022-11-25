@@ -43,8 +43,8 @@ optional arguments:
                         
   -runs HOWMANY, --HowMany HOWMANY
                         How many rootfiles
+                        
   -events EVENTSPERRUN, --EventsPerRun EVENTSPERRUN
-  
                         How many events per run
                         
   -t THRESHOLD, --threshold THRESHOLD
