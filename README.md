@@ -32,7 +32,8 @@ usage: MassiveGenerator_SNiPER_new.py [-h] [-s SPECIES] [-runs HOWMANY]
                                       [-use-sheldon-fluorescence-times USESHELDONFLUORESCENCETIMES]
 
 optional arguments:
-  -h, --help            show this help message and exit
+  -h, --help
+                        show this help message and exit
   
   -s SPECIES, --Species SPECIES
                         Which solar neutrino species (Be7, pep, CNO, pp, hep,
